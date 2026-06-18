@@ -1,5 +1,8 @@
 # bone-fracture-classification-ml
 This project uses Machine Learning to classify bone fractures from X-ray images.
+# Dataset
+Dataset used: MURA (Musculoskeletal Radiographs)
+Download link: https://stanfordmlgroup.github.io/competitions/mura/
 # technologies-used
 Python,
 Machine Learning
